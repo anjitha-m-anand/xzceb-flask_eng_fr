@@ -28,5 +28,5 @@ language_translator = LanguageTranslatorV3(
 
 language_translator.set_service_url(url)
 
-print(englishToFrench('Hello'))
-print(frenchToEnglish('Bonjour'))
+# print(englishToFrench('Hello'))
+# print(frenchToEnglish('Bonjour'))
